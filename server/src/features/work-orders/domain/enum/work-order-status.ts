@@ -1,0 +1,8 @@
+export enum WorkOrderStatus {
+  PENDING = 'PENDING',
+  READY = 'READY',
+  IN_PROGRESS = 'IN_PROGRESS',
+  PAUSED = 'PAUSED',
+  COMPLETED = 'COMPLETED',
+  CANCELLED = 'CANCELLED',
+}

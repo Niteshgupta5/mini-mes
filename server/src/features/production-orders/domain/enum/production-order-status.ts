@@ -1,0 +1,7 @@
+export enum ProductionOrderStatus {
+  DRAFT = 'DRAFT',
+  RELEASED = 'RELEASED',
+  IN_PROGRESS = 'IN_PROGRESS',
+  COMPLETED = 'COMPLETED',
+  CANCELLED = 'CANCELLED',
+}
